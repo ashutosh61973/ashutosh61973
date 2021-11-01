@@ -37,6 +37,14 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br />
+ <br/><br/><br/><br/>
+  
+### Motivation to work:
+  
+  <br/><br/> 
+  
+![Hard work can grow talent](https://user-images.githubusercontent.com/56062825/139707184-263b2f25-2a8f-450c-8042-0362e0e81490.png)
+
 <br />
 
 ---
