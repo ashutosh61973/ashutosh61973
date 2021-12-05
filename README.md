@@ -2,7 +2,7 @@
 
 ## I'm a Student👨‍⚖️, Developer🤟, and Competitive Programmer👩‍💻👨‍💻!!
 
-- 🔭 I just completed my reacts projects .
+- 🔭 I make projects on react js and flutter(in dart).
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m currently a 4✨ on <a href="https://www.codechef.com/users/ashutoshd_14"><img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo-sd.svg" width="50" height="20"/></a>
 - 🥅 open to work
