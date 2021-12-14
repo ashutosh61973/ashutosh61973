@@ -1,3 +1,6 @@
+![](https://activity-graph.herokuapp.com/graph?username=ashutosh61973&theme=react-dark&hide_border=true&area=true)
+
+
 ### Hi there, I'm Ashutosh Dixit - aka [sleepy koder] 👋
 
 ## I'm a Student👨‍⚖️, Developer🤟, and Competitive Programmer👩‍💻👨‍💻!!
