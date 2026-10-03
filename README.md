@@ -11,7 +11,7 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Myself
 
 - 🎓 B.Tech in Computer Science, Class of 2023
 - � I build projects with **React**, **Flutter**, and **Android**
