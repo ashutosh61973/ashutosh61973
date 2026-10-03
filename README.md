@@ -14,7 +14,7 @@
 ## 🙋‍♂️ About Myself
 
 - 🎓 B.Tech in Computer Science, Class of 2023
-- � I build projects with **React**, **Flutter**, **fullstack**and **Android**
+- � I build projects with **React**, **Flutter**, **fullstack** and **Android**
 - ⭐ 4-star rated on [CodeChef](https://www.codechef.com/users/ashutoshd_14)
 - 🌱 Always learning something new
 - 💼 Open to opportunities
